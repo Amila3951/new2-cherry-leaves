@@ -1,0 +1,16 @@
+core.Microsoft*
+core.mongo*
+core.python*
+env.py
+__pycache__/
+*.py[cod]
+node_modules/
+.github/
+cloudinary_python.txt
+kaggle.json
+.venv
+!data/cherry-leaves/test
+!data/cherry-leaves/train
+!data/cherry-leaves/validation
+!data/cherry-leaves/healthy
+!data/cherry-leaves/powdery_mildew
